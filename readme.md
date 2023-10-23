@@ -77,3 +77,8 @@ tornando però a come eseguire il commit, ecco come fare:
 ![Immagine file con commit message su vscode](im6.png)
 
 Scrivere un messaggio nel box indicato, qualcosa di breve, e poi premere commit.
+
+le prime volte comparirà:
+![Immagine pubblica branch](im7.png)
+
+Prima di premere pubblica branch assicurati di aver effettuato il login, premendo il pulsante "profilo" in basso a sinistra della finestra e facendo un login con l'account github premendo nella voce "attiva modifiche cloud"
