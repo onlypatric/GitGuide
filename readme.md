@@ -82,3 +82,6 @@ le prime volte comparirà:
 ![Immagine pubblica branch](im7.png)
 
 Prima di premere pubblica branch assicurati di aver effettuato il login, premendo il pulsante "profilo" in basso a sinistra della finestra e facendo un login con l'account github premendo nella voce "attiva modifiche cloud"
+
+una volta fatto il login se non è stato ancora fatto si può finalmente premere pubblica branch, potrebbe richiedere qualche altro step di autenticazione ma in genere basta così, porterà a un prompt del genere nella parte alta della finestra:
+
