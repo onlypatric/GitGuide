@@ -2,7 +2,14 @@
 
 GitHub è una piattaforma di hosting basata su Git che offre una varietà di strumenti per la gestione del controllo delle versioni e la collaborazione tra sviluppatori.
 
-Ecco come fare:
+è utile perché:
+
+- permette di condividere progetti con amici
+- aiuta a condividere velocemente progetti con i professori su classroom 
+- ottima alternativa a comprimere file che dobbiamo aggiornare mille volte, basta un link e appena c'è un cambiamento chiunque lo vede
+- ti aiuta a programmare in gruppo con le persone, sincronizzando i lavori
+
+semplice guida:
 
 ## 1. **Crea un Account GitHub:**
 
